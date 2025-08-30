@@ -1,5 +1,5 @@
-- [] Job
-- [] Task
-- [] Subtask
 - [] Checklist of items
 - [] Comment section   ivmvs knvlkvlksdvljsvl;asdjvldvnonveouirvnhoeirhvervi
+- [] Attachments
+- [] Due dates
+- [] Priorities
