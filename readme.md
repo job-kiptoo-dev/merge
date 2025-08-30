@@ -1,5 +1,5 @@
 - [] Checklist of items
 - [] Comment section   ivmvs knvlkvlksdvljsvl;asdjvldvnonveouirvnhoeirhvervi
 - [] Attachments
-- [] Due dates
+- [] Due dates in the next update cycle we are going to implement due dates
 - [] Priorities
