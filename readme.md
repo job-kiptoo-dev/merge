@@ -1,2 +1,4 @@
 - [] Job
 - [] Task
+- [] Subtask
+- [] Checklist
